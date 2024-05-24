@@ -1,0 +1,52 @@
+﻿@page
+@model E_ShopManagerWEB.Pages.Clientes.EditModel
+@{
+	ViewData["Tittle"] = "Edit";
+}
+<h1>Edit</h1>
+<h4>Categoria</h4>
+<hr />
+<div class="row">
+	<div class="col-md-4">
+		<form method="post">
+			<div asp-asp-validation-summary="ModeOnly" class="text-danger">
+			<input type="hidden" asp-form="Cliente.Id" />
+			<span asp-validation-for="Cliente.Id"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Cliente.Nombre" class="control-label"></label>
+				<input asp-for="Cliente.Nombre" class="form-control" />
+				<span asp-validation-for="Cliente.Nombre" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Cliente.Apellido" class="control-label"></label>
+				<input asp-for="Cliente.Apellido" class="form-control" />
+				<span asp-validation-for="Cliente.Apellido" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Cliente.Email" class="control-label"></label>
+				<input asp-for="Cliente.Email" class="form-control" />
+				<span asp-validation-for="Cliente.Email" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Cliente.Telefono" class="control-label"></label>
+				<input asp-for="Cliente.Telefono" class="form-control" />
+				<span asp-validation-for="Cliente.Telefono" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Cliente.Direccion" class="control-label"></label>
+				<input asp-for="Cliente.Direccion" class="form-control" />
+				<span asp-validation-for="Cliente.Direccion" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<input type="submit" value="Save" class="btn btn-success" />
+				<a asp-page="./Index" class="btn btn-primary">Back to List</a>
+			</div>
+		</form>
+	</div>
+</div>
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

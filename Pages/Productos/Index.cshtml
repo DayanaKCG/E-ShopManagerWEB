@@ -1,0 +1,70 @@
+﻿@page
+@model E_ShopManagerWEB.Pages.Productos.IndexModel
+@{
+	ViewData["Tittle"] = "Productos";
+}
+<h1>Productos</h1>
+<p>
+	<a asp-page="Create" class="btn btn-success">Producto Nuevo</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.Productos[0].IdProducto)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Productos[0].Nombre)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Productos[0].Descripcion)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Productos[0].Precio)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Productos[0].Stock)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Productos[0].Categoria)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Productos[0].ImagenUrl)
+			</th>
+			<th>Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.Productos)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.IdProducto)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Nombre)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Descripcion)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Precio)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Stock)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.IdCategoria)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.ImagenUrl)
+				</td>
+				<td>
+						<a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+						<a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

@@ -1,0 +1,54 @@
+﻿@page
+@model E_ShopManagerWEB.Pages.Clientes.CreateModel
+@{
+	ViewData["Tittle"] = "Create";
+}
+<h1>Create</h1>
+<h5>Cliente</h5>
+<hr />
+<div class="row">
+	<div class="col-md-5">
+		<form method="post">
+			<div asp-asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<div class="form-group">
+				<label asp-for="Cliente.IdCliente" class="control-label"></label>
+				<input asp-for="Cliente.IdCliente" class="form-control" />
+				<span asp-validation-for="Cliente.IdCliente" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Cliente.Nombre" class="control-label"></label>
+				<input asp-for="Cliente.Nombre" class="form-control" />
+				<span asp-validation-for="Cliente.Nombre" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Cliente.Apellido" class="control-label"></label>
+				<input asp-for="Cliente.Apellido" class="form-control" />
+				<span asp-validation-for="Cliente.Apellido" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Cliente.Email" class="control-label"></label>
+				<input asp-for="Cliente.Email" class="form-control" />
+				<span asp-validation-for="Cliente.Email" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Cliente.Telefono" class="control-label"></label>
+				<input asp-for="Cliente.Telefono" class="form-control" />
+				<span asp-validation-for="Cliente.Telefono" class="text-danger"></span>
+			</div><div class="form-group">
+				<label asp-for="Cliente.Direccion" class="control-label"></label>
+				<input asp-for="Cliente.Direccion" class="form-control" />
+				<span asp-validation-for="Cliente.Direccion" class="text-danger"></span>
+			</div>
+			<div class="form-group mt-3">
+				<input type="submit" value="Create" class="btn btn-success"/>
+				<a asp-page="Index" class="btn btn-primary">Back to List</a>
+			</div>			
+		</form>
+	</div>
+</div>
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

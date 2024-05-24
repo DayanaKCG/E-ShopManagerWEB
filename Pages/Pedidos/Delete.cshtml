@@ -1,0 +1,60 @@
+﻿@page
+@model E_ShopManagerWEB.Pages.Pedidos.DeleteModel
+@{
+	ViewData["Tittle"] = "Delete";
+}
+<h1>Delete</h1>
+<h3>¿Estas seguro que quieres eliminiar  este</h3>
+<div>
+	<h4>Pedido?</h4>
+	<hr />
+	<dl class="row">
+		<dt class="col-sm-2">
+			Html.DisplayNameFor(model => model.Pedido.Id)
+		</dt>
+		<dd class="col-sm-10">
+			Html.DisplayFor(model => model.Pedido.Id)
+		</dd>-->
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Pedido.IdPedido)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Pedido.IdPedido)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Pedido.IdCliente)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Pedido.IdCliente)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Pedido.FechaPedido)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Pedido.FechaPedido)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Pedido.Total)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Pedido.Total)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Pedido.Estado)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Pedido.Estado)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Pedido.DetallesPedido)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Pedido.DetallesPedido)
+		</dd>
+	</dl>
+	<form method="post">
+		<input type="hidden" asp-for="Pedido.Id" />
+		<input type="submit" value="Delete" class="btn btn-danger" />
+		<a asp-page="./Index" class="btn btn-primary">Back to List</a>
+	</form>
+</div>

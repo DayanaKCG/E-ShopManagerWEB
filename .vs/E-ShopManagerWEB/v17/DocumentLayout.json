@@ -1,0 +1,830 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\data\\e-shopmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:data\\e-shopmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\clientes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\clientes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\productos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\productos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\clientes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\clientes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\categorias\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\categorias\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\productos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\productos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\categorias\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\categorias\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\categorias\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\categorias\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\productos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\productos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\productos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\productos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\pedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\pedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\migrations\\20240522081018_dos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:migrations\\20240522081018_dos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_ShopManager/True/SqlTable/dbo.Productos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_ShopManager/True/SqlTable/dbo.__EFMigrationsHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Migrations\\20240522065733_nuevados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240522065733_nuevados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\pedidos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\pedidos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\pedidos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\pedidos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\pedidos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\pedidos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\pedidos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\pedidos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\pedidos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\pedidos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\pedidos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\pedidos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\detallepedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\detallepedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\detallepedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\detallepedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\detallepedidos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\detallepedidos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_ShopManager/True/SqlTable/dbo.DetallePedidos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_ShopManager/True/SqlTable/dbo.Clientes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\detallepedidos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\detallepedidos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_ShopManager/True/SqlTable/dbo.Pedidos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\clientes\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\clientes\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|c:\\users\\user\\source\\repos\\e-shopmanagerweb\\pages\\clientes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C82D7F-C856-4C6B-B088-D6E3C3B4EE3B}|E-ShopManagerWEB.csproj|solutionrelative:pages\\clientes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_ShopManager/True/SqlTable/dbo.Categorias.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T02:26:55.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Clientes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T02:41:36.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T23:43:09.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E-ShopManagerContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Data\\E-ShopManagerContext.cs",
+              "RelativeDocumentMoniker": "Data\\E-ShopManagerContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Data\\E-ShopManagerContext.cs",
+              "RelativeToolTip": "Data\\E-ShopManagerContext.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwDoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:48:41.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Clientes\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T00:09:15.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Clientes\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Clientes\\Create.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T00:43:34.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Productos\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Productos\\Create.cshtml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:35:32.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Productos\\Create.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T02:34:48.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Clientes\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Clientes\\Index.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:43:19.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Categorias\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categorias\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Categorias\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Categorias\\Delete.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T00:03:56.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Categorias\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categorias\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Categorias\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categorias\\Delete.cshtml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:13:57.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categorias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Categorias\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T20:02:21.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Categorias\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categorias\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Categorias\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categorias\\Edit.cshtml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:18:29.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Productos\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Productos\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:28:50.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Productos\\Index.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAEUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:54:39.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Categorias\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categorias\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Categorias\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Categorias\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T00:24:46.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Categorias\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T22:58:03.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Categorias\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categorias\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Categorias\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categorias\\Index.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:58:42.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Productos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Productos\\Delete.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:28:05.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Productos\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Productos\\Delete.cshtml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:31:22.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Productos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Productos\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T04:24:40.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Productos\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Productos\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Productos\\Edit.cshtml.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAADwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:47:52.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:07:27.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Clientes\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T03:13:44.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Pedidos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Pedidos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:31:02.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:52:01.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T07:24:56.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:01:41.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240522081018_dos.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Migrations\\20240522081018_dos.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240522081018_dos.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Migrations\\20240522081018_dos.cs",
+              "RelativeToolTip": "Migrations\\20240522081018_dos.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:10:18.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:18:27.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Models\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "Models\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Models\\DetallePedido.cs",
+              "RelativeToolTip": "Models\\DetallePedido.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:56:19.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dbo.Productos [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_ShopManager/True/SqlTable/dbo.Productos.sql",
+              "ToolTip": "dbo.Productos [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-22T07:25:40.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Models\\Pedido.cs",
+              "RelativeToolTip": "Models\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:35:43.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "dbo.__EFMigrationsHistory [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_ShopManager/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "ToolTip": "dbo.__EFMigrationsHistory [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-22T06:43:11.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240522065733_nuevados.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Migrations\\20240522065733_nuevados.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240522065733_nuevados.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Migrations\\20240522065733_nuevados.cs",
+              "RelativeToolTip": "Migrations\\20240522065733_nuevados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:57:33.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pedidos\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pedidos\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:49:08.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pedidos\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pedidos\\Create.cshtml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:31:12.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pedidos\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pedidos\\Edit.cshtml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwBcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:38:17.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Pedidos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Pedidos\\Delete.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvzcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:48:44.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Pedidos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Pedidos\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:35:24.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Pedidos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Pedidos\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T03:35:16.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Pedidos\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Pedidos\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Pedidos\\Index.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:35:20.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\DetallePedidos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\DetallePedidos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\DetallePedidos\\Index.cshtml",
+              "RelativeToolTip": "Pages\\DetallePedidos\\Index.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwC8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T16:31:10.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\DetallePedidos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\DetallePedidos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\DetallePedidos\\Create.cshtml",
+              "RelativeToolTip": "Pages\\DetallePedidos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T22:41:00.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\DetallePedidos\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\DetallePedidos\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\DetallePedidos\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\DetallePedidos\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:44:36.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "dbo.DetallePedidos [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_ShopManager/True/SqlTable/dbo.DetallePedidos.sql",
+              "ToolTip": "dbo.DetallePedidos [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-22T04:09:19.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "dbo.Clientes [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_ShopManager/True/SqlTable/dbo.Clientes.sql",
+              "ToolTip": "dbo.Clientes [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-21T16:32:12.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\DetallePedidos\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\DetallePedidos\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\DetallePedidos\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\DetallePedidos\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:41:34.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "dbo.Pedidos [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_ShopManager/True/SqlTable/dbo.Pedidos.sql",
+              "ToolTip": "dbo.Pedidos [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-21T14:41:41.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Clientes\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Clientes\\Delete.cshtml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:14:26.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Clientes\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\E-ShopManagerWEB\\Pages\\Clientes\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Clientes\\Edit.cshtml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:43:39.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "dbo.Categorias [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_ShopManager/True/SqlTable/dbo.Categorias.sql",
+              "ToolTip": "dbo.Categorias [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-20T01:24:36.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
