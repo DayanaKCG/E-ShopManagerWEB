@@ -1,45 +1,10 @@
 ﻿@page
-@model E_ShopManagerWEB.Pages.Categorias.IndexModel
+@model IndexModel
 @{
-	ViewData["Tittle"] = "Categorias";
+    ViewData["Title"] = "Home page";
 }
-<h1>Categorias</h1>
-<p>
-	<a asp-page="Create" class="btn btn-success">Categoria Nueva</a>
-</p>
-<table class="table">
-	<thead>
-		<tr>
-			<th>
-				@Html.DisplayNameFor(model => model.Categorias[0].IdCategoria)
-			</th>
-			<th>
-				@Html.DisplayNameFor(model => model.Categorias[0].NombreCategoria)
-			</th>
-			<th>
-				@Html.DisplayNameFor(model => model.Categorias[0].Descripcion)
-			</th>
-			<th>Actions</th>
-		</tr>
-	</thead>
-	<tbody>
-		@foreach (var item in Model.Categorias)
-		{
-			<tr>
-				<td>
-					@Html.DisplayFor(modelItem => item.IdCategoria)
-				</td>
-				<td>
-					@Html.DisplayFor(modelItem => item.NombreCategoria)
-				</td>
-				<td>
-					@Html.DisplayFor(modelItem => item.Descripcion)
-				</td>
-				<td>
-					<a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
-					<a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
-				</td>
-			</tr>
-		}
-	</tbody>
-</table>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

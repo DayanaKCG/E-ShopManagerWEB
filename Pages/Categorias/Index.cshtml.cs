@@ -1,26 +1,20 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using E_ShopManagerWEB.Data;
-using E_ShopManagerWEB.Models;
-using Microsoft.EntityFrameworkCore;
 
-namespace E_ShopManagerWEB.Pages.Categorias
+namespace E_ShopManagerWEB.Pages
 {
-    public class IndexModel : PageModel
-    {
-        private readonly E_ShopManagerContext _context;
+	public class IndexModel : PageModel
+	{
+		private readonly ILogger<IndexModel> _logger;
 
-        public IndexModel(E_ShopManagerContext context)
-        {
-			_context = context;
-        }
-        public IList<Categoria> Categorias { get; set; } = default!;
-        public async Task OnGetAsync()
-        {
-            if (_context.Categorias != null)
-            {
-                Categorias = await _context.Categorias.ToListAsync();
-            }
-        }
-    }
+		public IndexModel(ILogger<IndexModel> logger)
+		{
+			_logger = logger;
+		}
+
+		public void OnGet()
+		{
+
+		}
+	}
 }
