@@ -1,0 +1,63 @@
+﻿@page
+@model E_ShopManagerWEB.Pages.DetallePedidos.IndexModel
+@{
+	ViewData["Tittle"] = "DetallePedidos";
+}
+<h1>DetallePedidos</h1>
+<p>
+	<a asp-page="Create" class="btn btn-success">Cliente Nuevo</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.DetallePedidos[0].Id)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.DetallePedidos[0].IdDetalle)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.DetallePedidos[0].IdPedido)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.DetallePedidos[0].IdProducto)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.DetallePedidos[0].Cantidad)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.DetallePedidos[0].Precio)
+			</th>
+			<th>Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.DetallePedidos)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Id)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.IdDetalle)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.IdPedido)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.IdProducto)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Cantidad)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Precio)
+				</td>
+				<td>
+					<a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+					<a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

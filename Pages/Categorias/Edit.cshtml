@@ -1,0 +1,32 @@
+﻿@page
+@model E_ShopManagerWEB.Pages.Categorias.EditModel
+@{
+	ViewData["Tittle"] = "Edit";
+}
+<h1>Edit</h1>
+<h4>Categoria</h4>
+<hr />
+<div class="row">
+	<div class="col-md-4">
+		<form method="post">
+			<div asp-asp-validation-summary="ModeOnly" class="text-danger">
+			<input type="hidden" asp-form="Categortia.Id" />
+			<span asp-validation-for="Categoria.Id"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Categoria.IdCategoria" class="control-label"></label>
+				<input asp-for="Categoria.IdCategoria" class="form-control" />
+				<span asp-validation-for="Categoria.IdCategoria" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<input type="submit" value="Save" class="btn btn-success" />
+				<a asp-page="./Index" class="btn btn-primary">Back to List</a>
+			</div>
+		</form>
+	</div>
+</div>
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

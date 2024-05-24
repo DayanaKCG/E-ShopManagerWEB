@@ -1,0 +1,63 @@
+﻿@page
+@model E_ShopManagerWEB.Pages.Clientes.IndexModel
+@{
+	ViewData["Tittle"] = "Clientes";
+}
+<h1>Clientes</h1>
+<p>
+	<a asp-page="Create" class="btn btn-success">Cliente Nuevo</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.Clientes[0].IdCliente)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Clientes[0].Nombre)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Clientes[0].Apellido)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Clientes[0].Email)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Clientes[0].Telefono)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Clientes[0].Direccion)
+			</th>
+			<th>Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.Clientes)
+		{
+				<tr>
+					<td>
+						@Html.DisplayFor(modelItem => item.IdCliente)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.Nombre)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.Apellido)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.Email)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.Telefono)
+					</td>
+					<td>
+					@Html.DisplayFor(modelItem => item.Direccion)
+					</td>
+					<td>
+						<a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+						<a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+					</td>
+				</tr>
+		}
+	</tbody>
+</table>

@@ -1,0 +1,63 @@
+﻿@page
+@model E_ShopManagerWEB.Pages.Pedidos.IndexModel
+@{
+	ViewData["Tittle"] = "Pedidos";
+}
+<h1>Pedidos</h1>
+<p>
+	<a asp-page="Create" class="btn btn-success">Pedido Nuevo</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.Pedidos[0].IdPedido)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Pedidos[0].IdCliente)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Pedidos[0].FechaPedido)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Pedidos[0].Total)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Pedidos[0].Estado)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Pedidos[0].DetallesPedido)
+			</th>
+			<th>Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.Pedidos)
+		{
+					<tr>
+						<td>
+					@Html.DisplayFor(modelItem => item.IdPedido)
+						</td>
+						<td>
+					@Html.DisplayFor(modelItem => item.IdCliente)
+						</td>
+						<td>
+					@Html.DisplayFor(modelItem => item.FechaPedido)
+						</td>
+						<td>
+					@Html.DisplayFor(modelItem => item.Total)
+						</td>
+						<td>
+					@Html.DisplayFor(modelItem => item.Estado)
+						</td>
+						<td>
+					@Html.DisplayFor(modelItem => item.DetallesPedido)
+						</td>
+						<td>
+							<a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+							<a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+						</td>
+					</tr>
+		}
+	</tbody>
+</table>

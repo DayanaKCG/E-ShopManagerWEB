@@ -1,0 +1,42 @@
+﻿@page
+@model E_ShopManagerWEB.Pages.Categorias.DeleteModel
+@{
+	ViewData["Tittle"] = "Delete";
+}
+<h1>Delete</h1>
+<h3>¿Estas seguro que quieres eliminiar  esta</h3>
+<div>
+	<h4>Categoria?</h4>
+	<hr />
+	<dl class="row">
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Categoria.Id)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Categoria.Id)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Categoria.IdCategoria)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Categoria.IdCategoria)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Categoria.NombreCategoria)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Categoria.NombreCategoria)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Categoria.Descripcion)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Categoria.Descripcion)
+		</dd>
+	</dl>
+	<form method="post">
+		<input type="hidden" asp-for="Categoria.Id" />
+		<input type="submit" value="Delete" class="btn btn-danger" />
+		<a asp-page="./Index" class="btn btn-primary">Back to List</a>
+	</form>
+</div>
